@@ -1,2 +1,3 @@
-# EmployeeAttrition
-Dummy repository
+# Employee Attrition
+![image.png](images/HRTalent.png)
+
